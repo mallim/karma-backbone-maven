@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jersey-webapp:war exploded">
+    <output-path>$PROJECT_DIR$/target/jersey-webapp</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jersey-webapp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jersey-webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-webapp:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-xml:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-servlet:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-security:9.0.2.v20130417" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-server:1.17.1" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.17.1" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-json:1.17.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.jettison:jettison:1.1" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.2-promoted-b65" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.2.9" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-xc:1.9.2" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-servlet:1.17.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

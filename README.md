@@ -7,6 +7,12 @@ A minimal setup for running JavaScript tests on a [Backbone] [1] application  (u
 
 [1]: http://backbonejs.org/ "Backbone"
 
+Change Log by Ian Lim
+=======================
+* Upgraded the jersey, junit and jetty libraries
+* Resolved the error on jaxb dependencies
+* Use maven-karma-plugin instead of the original exec-maven-plugin
+
 Assumptions
 ===========
 
